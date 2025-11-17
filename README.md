@@ -16,5 +16,4 @@ AI Engineering student at Vrije Universiteit Amsterdam, focused on computer visi
 - LLM-powered conversational assistants with ultra-low latency
 
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BPerju&layout=compact&theme=dark)
+[![Bogdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BPerju)](https://github.com/anuraghazra/github-readme-stats)
