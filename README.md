@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Bogdan 👋
 
-<!--
-**BPerju/BPerju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineering student at Vrije Universiteit Amsterdam, focused on computer vision and machine learning applications.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**ML & AI:** Python • PyTorch • Jupyter  
+**Backend:** Django • FastAPI  
+**Mobile:** Flutter • Dart  
+**Frontend:** Vue.js
+
+## 🚀 Currently Working On
+
+- Vision-Language Models with reinforcement learning (GRPO)
+- Real-time pose detection & exercise tracking apps
+- LLM-powered conversational assistants with ultra-low latency
+
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dark)
