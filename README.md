@@ -1,19 +1,12 @@
-# Hi, I'm Bogdan 👋
 
-AI Engineering student at Vrije Universiteit Amsterdam, focused on computer vision and machine learning applications.
-
-## 🔧 Tech Stack
-
-**ML & AI:** Python • PyTorch • Jupyter  
-**Backend:** Django • FastAPI  
-**Mobile:** Flutter • Dart  
-**Frontend:** Vue.js
-
-## 🚀 Currently Working On
-
-- Vision-Language Models with reinforcement learning (GRPO)
-- Real-time pose detection & exercise tracking apps
-- LLM-powered conversational assistants with ultra-low latency
+# 💫 About Me:
+Recent BSc AI Graduate at Vrije Universiteit Amsterdam focused on machine learning applications.
+I'm currently working on a fitness tracker that combats doomscrolling<br>Looking to collaborate on projects in the AI and ML space
 
 
-[![Bogdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BPerju)](https://github.com/anuraghazra/github-readme-stats)
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+# 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=BPerju&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BPerju&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
