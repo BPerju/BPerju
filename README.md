@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Recent BSc AI Graduate at Vrije Universiteit Amsterdam focused on machine learning applications.
+Recent BSc AI Graduate at Vrije Universiteit Amsterdam focused on machine learning applications.<br>
 I'm currently working on a fitness tracker that combats doomscrolling<br>Looking to collaborate on projects in the AI and ML space
 
 
