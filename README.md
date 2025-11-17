@@ -17,4 +17,4 @@ AI Engineering student at Vrije Universiteit Amsterdam, focused on computer visi
 
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BPerju&layout=compact&theme=dark)
